@@ -1,0 +1,15 @@
+{
+  "name": "stiqr-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stiQR LLC",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^11.9.0",
+    "firebase-tools": "^12.4.3"
+  }
+}
